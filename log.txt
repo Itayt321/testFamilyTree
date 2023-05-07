@@ -1,0 +1,23 @@
+2023-05-06 23:46:04.210 +03:00 [INF] Application started
+2023-05-06 23:46:04.322 +03:00 [ERR] At least 1 object has to contain null in his parentId property
+2023-05-06 23:48:51.650 +03:00 [INF] Application started
+2023-05-06 23:53:29.943 +03:00 [INF] Application finished
+2023-05-07 00:18:20.658 +03:00 [INF] Application started
+2023-05-07 00:18:20.795 +03:00 [ERR] Sequence contains no elements
+2023-05-07 00:19:27.880 +03:00 [INF] Application started
+2023-05-07 00:20:42.098 +03:00 [INF] Application started
+2023-05-07 00:25:10.305 +03:00 [INF] Application started
+2023-05-07 00:31:59.554 +03:00 [INF] Application started
+2023-05-07 00:31:59.569 +03:00 [INF] Application finished
+2023-05-07 00:56:15.711 +03:00 [INF] Application started
+2023-05-07 00:56:15.727 +03:00 [INF] Application finished
+2023-05-07 01:03:49.785 +03:00 [INF] Application started
+2023-05-07 01:29:54.582 +03:00 [INF] Application started
+2023-05-07 01:52:30.862 +03:00 [INF] Application started
+2023-05-07 01:52:31.026 +03:00 [ERR] Parent Id not found
+2023-05-07 06:29:51.029 +03:00 [INF] Application started
+2023-05-07 06:29:51.354 +03:00 [ERR] At least 1 object has to contain null in his parentId property
+2023-05-07 07:24:06.085 +03:00 [INF] Application started
+2023-05-07 07:24:06.221 +03:00 [ERR] At least 1 object has to contain null in his parentId property
+2023-05-07 07:14:48.484 +03:00 [INF] Application started
+2023-05-07 07:14:48.503 +03:00 [INF] Application finished
